@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.temp.learn_hindi2.bWord">
+
+
+
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/types"
+        android:text="Numbers"
+
+
+        android:background="@color/numbersPage"/>
+
+    <TextView
+        android:id="@+id/family"
+        style="@style/types"
+        android:text="Family"
+
+
+        android:background="@color/familyPage"/>
+
+    <TextView
+        android:id="@+id/colors"
+        style="@style/types"
+        android:text="Colors"
+        android:background="@color/colorsPage"/>
+
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/types"
+        android:text="Phrases"
+        android:background="@color/phrasesPage"/>
+
+
+</LinearLayout>

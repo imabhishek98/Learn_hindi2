@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+
+
+    <color name="numbersPage">#FD8E09</color>
+
+    <color name="familyPage">#379237</color>
+
+    <color name="colorsPage">#8800A0</color>
+
+    <color name="phrasesPage">#16AFCA</color>
+
+    <color name="basicwordsPage">#FF714B</color>
+    <color name="translatePage">#FF8B97</color>
+</resources>

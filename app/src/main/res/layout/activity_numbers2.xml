@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListViewt xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.temp.learn_hindi2.numbersActivity2"
+
+
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/numbers_linear_layout"
+    android:layout_height="match_parent">
+</ListViewt>
